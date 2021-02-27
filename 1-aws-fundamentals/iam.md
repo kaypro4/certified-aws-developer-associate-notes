@@ -10,7 +10,7 @@ When accessing AWS, the root account should **never** be used. Users must be cre
 #### For big enterprises:
 - IAM Federation: Integrate their own repository of users with IAM using SAML standard
 
-### Policies
+### Policies :confused:
 <span style="color:blue">IAM policies<span> define permissions for an action regardless of the method that you use to perform the operation.
 
 #### Policy types
